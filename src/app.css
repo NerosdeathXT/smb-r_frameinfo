@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Handjet:wght@500;600&family=PT+Sans&display=swap');
+
+* {
+    box-sizing: border-box;
+} 
+body{background-image: url("imagenes/bg.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-color: black;
+}
